@@ -8,7 +8,7 @@ import { Tech } from "./components/Tech";
 import { Works } from "./components/Works";
 import { Feedbacks } from "./components/Feedbacks";
 import { Contact } from "./components/Contact";
-import { StarsCanvas } from "./components/canvas/Stars";
+// import { StarsCanvas } from "./components/canvas/Stars";
 
 export const App = () => {
   return (
@@ -25,7 +25,7 @@ export const App = () => {
         <Feedbacks />
         <div className="relative z-0">
           <Contact />
-          <StarsCanvas />
+          {/* <StarsCanvas /> */}
         </div>
       </div>
     </BrowserRouter>

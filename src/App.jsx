@@ -28,7 +28,6 @@ export const App = () => {
           {/* <StarsCanvas /> */}
         </div>
       </div>
-      <h1>hello test</h1>
     </BrowserRouter>
   );
 };

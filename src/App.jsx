@@ -27,6 +27,7 @@ export const App = () => {
           <Contact />
           {/* <StarsCanvas /> */}
         </div>
+        <h1>tesitk testik</h1>
       </div>
     </BrowserRouter>
   );

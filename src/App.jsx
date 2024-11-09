@@ -23,6 +23,7 @@ export const App = () => {
         <Tech />
         <Works />
         <Feedbacks />
+        <h1>user test</h1>
         <div className="relative z-0">
           <Contact />
           {/* <StarsCanvas /> */}
